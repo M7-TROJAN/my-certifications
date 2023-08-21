@@ -36,18 +36,19 @@ Here's a list of the certifications and achievements included in this repository
      ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_3/1.png)
 
 9. [OOP Concepts](./Certifications/OOP_Concepts/1.pdf)
+
    ![OOP Concepts](./Certifications/OOP_Concepts/1.png)
 
-10. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.pdf)
+11. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.pdf)
      ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.png)
 
-11. [OOP Applications](./Certifications/OOP_Applications/1.pdf)
+12. [OOP Applications](./Certifications/OOP_Applications/1.pdf)
      ![OOP Applications](./Certifications/OOP_Applications/1.png)
 
-12. [Data Structures](./Certifications/Data_Structures/1.pdf)
+13. [Data Structures](./Certifications/Data_Structures/1.pdf)
      ![Data Structures](./Certifications/Data_Structures/1.png)
 
-13. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.pdf)
+14. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.pdf)
      ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.png)
 
 ## About Me
