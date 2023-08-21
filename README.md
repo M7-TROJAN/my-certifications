@@ -8,8 +8,8 @@ Feel free to explore and take a look at the certifications I've earned over time
 
 Here's a list of the certifications and achievements included in this repository:
 
-0. [CS50x](./Certifications/codezilla/Fundamentals_of_Programming_certificate.pdf)
-     ![CS50x](./Certifications/codezilla/1.png)
+0. [Fundamentals_of_Programming](./Certifications/codezilla/Fundamentals_of_Programming_certificate.pdf)
+     ![Fundamentals_of_Programming](./Certifications/codezilla/1.png)
 
 1. [CS50x](./Certifications/CS50x/CS50x.pdf)
      ![CS50x](./Certifications/CS50x/CS50x.png)
