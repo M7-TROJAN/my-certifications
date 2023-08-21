@@ -36,7 +36,7 @@ Here's a list of the certifications and achievements included in this repository
      ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_3/1.png)
 
 9. [OOP Concepts](./Certifications/OOP_Concepts/1.pdf)
-     ![OOP Concepts](./Certifications/OOP_Concepts/1.png)
+   ![OOP Concepts](./Certifications/OOP_Concepts/1.png)
 
 10. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.pdf)
      ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.png)
