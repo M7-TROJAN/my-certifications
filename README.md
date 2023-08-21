@@ -9,50 +9,50 @@ Feel free to explore and take a look at the certifications I've earned over time
 Here's a list of the certifications and achievements included in this repository:
 
 0. [CS50x](./Certifications/codezilla/Fundamentals_of_Programming_certificate.pdf)
-     ![CS50x](./Certifications/codezilla/1.jpg)
+     ![CS50x](./Certifications/codezilla/1.png)
 
 1. [CS50x](./Certifications/CS50x/CS50x.pdf)
-     ![CS50x](./Certifications/CS50x/CS50x.jpg)
+     ![CS50x](./Certifications/CS50x/CS50x.png)
 
 2. [Foundations](./Certifications/Foundations_Level_1/1.pdf)
-     ![Foundations](./Certifications/Foundations_Level_1/1.jpg)
+     ![Foundations](./Certifications/Foundations_Level_1/1.png)
 
-3. [Algorithms and Problem Solving Level 1](./Certifications/Algorithms_and_Problem-Solving_Level_1/1.pdf)
-     ![Algorithms and Problem Solving Level 1](./Certifications/Algorithms_and_Problem-Solving_Level_1/1.jpg)
+3. [Algorithms and Problem-Solving Level 1](./Certifications/Algorithms_and_Problem-Solving_Level_1/1.pdf)
+     ![Algorithms and Problem-Solving Level 1](./Certifications/Algorithms_and_Problem-Solving_Level_1/1.png)
 
-4. [Algorithms and Problem Solving](./Certifications/Algorithms_and_Problem-Solving_Level_1_sol/1.pdf)
-     ![Algorithms and Problem Solving](./Certifications/Algorithms_and_Problem-Solving_Level_1_sol/1.jpg)
+4. [Algorithms and Problem-Solving](./Certifications/Algorithms_and_Problem-Solving_Level_1_sol/1.pdf)
+     ![Algorithms and Problem Solving](./Certifications/Algorithms_and_Problem-Solving_Level_1_sol/1.png)
 
 5. [Programming Using C++ Level 1](./Certifications/Programming_Using_Cpp_Level_1/1.pdf)
-     ![Programming Using C++ Level 1](./Certifications/Programming_Using_Cpp_Level_1/1.jpg)
+     ![Programming Using C++ Level 1](./Certifications/Programming_Using_Cpp_Level_1/1.png)
 
 6. [Programming Using C++ Level 2](./Certifications/Programming_Using_Cpp_Level_2/1.pdf)
-     ![Programming Using C++ Level 2](./Certifications/Programming_Using_Cpp_Level_2/1.jpg)
+     ![Programming Using C++ Level 2](./Certifications/Programming_Using_Cpp_Level_2/1.png)
 
-7. [Algorithms and Problem Solving Level 3](./Certifications/Algorithms_and_Problem-Solving_Level_2/1.pdf)
-     ![Algorithms and Problem Solving Level 3](./Certifications/Algorithms_and_Problem-Solving_Level_2/1.jpg)
+7. [Algorithms and Problem-Solving Level 3](./Certifications/Algorithms_and_Problem-Solving_Level_2/1.pdf)
+     ![Algorithms and Problem-Solving Level 3](./Certifications/Algorithms_and_Problem-Solving_Level_2/1.png)
 
-8. [Algorithms and Problem Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_3/1.pdf)
-     ![Algorithms and Problem Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_3/1.jpg)
+8. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_3/1.pdf)
+     ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_3/1.png)
 
 9. [OOP Concepts](./Certifications/OOP_Concepts/1.pdf)
-     ![OOP Concepts](./Certifications/OOP_Concepts/1.jpg)
+     ![OOP Concepts](./Certifications/OOP_Concepts/1.png)
 
-10. [Algorithms and Problem Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.pdf)
-     ![Algorithms and Problem Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.jpg)
+10. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.pdf)
+     ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_4/1.png)
 
 11. [OOP Applications](./Certifications/OOP_Applications/1.pdf)
-     ![OOP Applications](./Certifications/OOP_Applications/1.jpg)
+     ![OOP Applications](./Certifications/OOP_Applications/1.png)
 
 12. [Data Structures](./Certifications/Data_Structures/1.pdf)
-     ![Data Structures](./Certifications/Data_Structures/1.jpg)
+     ![Data Structures](./Certifications/Data_Structures/1.png)
 
-13. [Algorithms and Problem Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.pdf)
-     ![Algorithms and Problem Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.jpg)
+13. [Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.pdf)
+     ![Algorithms and Problem-Solving Level 4](./Certifications/Algorithms_and_Problem-Solving_Level_5/1.png)
 
 ## About Me
 
-I am a passionate learner and dedicated individual with a strong commitment to personal and professional growth. These certifications represent my continuous pursuit of knowledge and my desire to excel in Programing field. If you have any questions about my certifications or want to learn more about my journey, feel free to connect with me.
+I am a passionate learner and dedicated individual with a strong commitment to personal and professional growth. These certifications represent my continuous pursuit of knowledge and my desire to excel in the Programing field. If you have any questions about my certifications or want to learn more about my journey, feel free to connect with me.
 
 ## Contact Information
 
