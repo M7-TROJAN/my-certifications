@@ -12,7 +12,7 @@ Here's a list of the certifications and achievements included in this repository
      ![Fundamentals_of_Programming](./Certifications/codezilla/1.png)
 
 1. [CS50x](./Certifications/CS50x/CS50x.pdf)
-     ![CS50x](./Certifications/CS50x/CS50x.png)
+     ![CS50x](./Certifications/CS50x/1.png)
 
 2. [Foundations](./Certifications/Foundations_Level_1/1.pdf)
      ![Foundations](./Certifications/Foundations_Level_1/1.png)
