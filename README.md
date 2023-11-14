@@ -1,4 +1,4 @@
-# Mahmoud Mohamed Abdalaziz - Certifications Showcase
+# Mahmoud Mohamed - Certifications Showcase
 
 Welcome to my "Certifications Showcase" repository! Here, you'll find a curated collection of certifications and achievements reflecting my journey in programming. Each certification signifies a milestone, showcasing my dedication and expertise in various programming domains.
 
@@ -7,7 +7,9 @@ Welcome to my "Certifications Showcase" repository! Here, you'll find a curated 
 Explore the certifications below to get a glimpse of my skills and knowledge:
 
 1. **FreeCodeCamp C# Certification**
-   - [![FreeCodeCamp C# Certification](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)
+   - ![Fundamentals_of_Programming](./Certifications/foundational_c_sharp_with_microsoft/0.png)
+   - Source: [![FreeCodeCamp C# Certification](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)
+
 
 2. **Fundamentals of Programming - Codezilla Courses**
    - [Certificate](./Certifications/codezilla/Fundamentals_of_Programming_certificate.pdf)
