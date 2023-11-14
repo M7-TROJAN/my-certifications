@@ -78,8 +78,8 @@ Here's a list of the certifications and achievements included in this repository
     
     Source: [Programming Advices](https://programmingadvices.com/)
    
-14. [OOP_With_C#](./Certifications/OOP_With_C#/0.pdf)
-    ![OOP_With_C#](./Certifications/OOP_With_C#/0.png)
+14. [OOP_With_C#](./Certifications/OOP_With_CSharp/0.pdf)
+    ![OOP_With_C#](./Certifications/OOP_With_CSharp/0.png)
     
     Source: [Programming Advices](https://programmingadvices.com/)
 
