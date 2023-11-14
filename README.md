@@ -8,6 +8,10 @@ Feel free to explore and take a look at the certifications I've earned over time
 
 Here's a list of the certifications and achievements included in this repository:
 
+0. ![Fundamentals_of_Programming](./Certifications/foundational_c_sharp_with_microsoft/0.png)
+   Source: [![FreeCodeCamp C# Certification](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)](https://www.freecodecamp.org/certification/Mahmoud_mattar/foundational-c-sharp-with-microsoft)
+
+   
 0. [Fundamentals_of_Programming](./Certifications/codezilla/Fundamentals_of_Programming_certificate.pdf)
    ![Fundamentals_of_Programming](./Certifications/codezilla/1.png)
    Source: [Codezilla Courses](https://www.codezilla.courses/)
